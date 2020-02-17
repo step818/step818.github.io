@@ -7,6 +7,9 @@ body {
   font-family: 'Monsterrat',
   sans-serif;
 }
+#content {
+  text-align: center;
+}
 #header {
   background-color: #1abc9c;
   height: 150px;
